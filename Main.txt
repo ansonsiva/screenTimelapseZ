@@ -1,0 +1,75 @@
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "19c-KH-gb1"; */
+"19c-KH-gb1.title" = "退出";
+
+/* Class = "NSMenuItem"; title = "Quit timeLapseZ"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 timeLapseZ";
+
+/* Class = "NSMenuItem"; title = "Start"; ObjectID = "5C1-WB-xG7"; */
+"5C1-WB-xG7.title" = "开始";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "PLb-Ax-aGe"; */
+"PLb-Ax-aGe.title" = "设置";
+
+/* Class = "NSMenuItem"; title = "Save Mp4"; ObjectID = "XPW-8P-l2J"; */
+"XPW-8P-l2J.title" = "保存为Mp4";
+
+/* Class = "NSMenuItem"; title = "Stop"; ObjectID = "mot-Hj-rcg"; */
+"mot-Hj-rcg.title" = "停止";
+
+/* Class = "NSButtonCell"; title = "Choose another location"; ObjectID = "9kE-fT-jTc"; */
+"9kE-fT-jTc.title" = "选择默认存储位置";
+
+/* Class = "NSTextFieldCell"; title = "Your Timelapse Video Now Store at:"; ObjectID = "Sk0-4t-Moa"; */
+"Sk0-4t-Moa.title" = "视频默认保存目录为：";
+
+/* Class = "NSBox"; title = "Current Save Location:"; ObjectID = "WB1-nZ-aPT"; */
+"WB1-nZ-aPT.title" = "当前存储位置为：";
+
+/* Class = "NSButtonCell"; title = "Show in Finder"; ObjectID = "nC8-64-Tmy"; */
+"nC8-64-Tmy.title" = "在finder中打开";
+
+
+/* Class = "NSMenuItem"; title = "every 30 mins"; ObjectID = "3c0-kP-yux"; */
+"3c0-kP-yux.title" = "每30分钟";
+
+/* Class = "NSTextFieldCell"; title = "TimeInterval"; ObjectID = "44a-KB-aP0"; */
+"44a-KB-aP0.title" = "时间间隔";
+
+/* Class = "NSTextFieldCell"; title = "Autosave:"; ObjectID = "6gl-IQ-tPy"; */
+"6gl-IQ-tPy.title" = "自动保存:";
+
+/* Class = "NSMenuItem"; title = "every 2 hour"; ObjectID = "Gp7-mt-FGo"; */
+"Gp7-mt-FGo.title" = "每1小时";
+
+/* Class = "NSMenuItem"; title = "Disable"; ObjectID = "JaL-Ob-nhZ"; */
+"JaL-Ob-nhZ.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "every 15 mins"; ObjectID = "Swq-Mh-Y6g"; */
+"Swq-Mh-Y6g.title" = "每15分钟";
+
+/* Class = "NSMenuItem"; title = "every 5 mins"; ObjectID = "ahN-An-7iX"; */
+"ahN-An-7iX.title" = "每5分钟";
+
+/* Class = "NSMenuItem"; title = "every 1 hour"; ObjectID = "hA4-b9-EKp"; */
+"hA4-b9-EKp.title" = "每1小时";
+
+/* Class = "NSMenuItem"; title = "every 4 hour"; ObjectID = "pGz-Ee-B3T"; */
+"pGz-Ee-B3T.title" = "每4小时";
+
+/* Class = "NSButtonCell"; title = "Watermark"; ObjectID = "4IV-2Y-Xl1"; */
+"4IV-2Y-Xl1.title" = "水印";
+
+/* Class = "NSTextFieldCell"; title = "font Color:"; ObjectID = "6MP-LI-1al"; */
+"6MP-LI-1al.title" = "水印颜色";
+
+/* Class = "NSTextFieldCell"; title = "font Name:"; ObjectID = "HqH-xj-k7s"; */
+"HqH-xj-k7s.title" = "字体名称:";
+
+/* Class = "NSTextFieldCell"; title = "font Size:"; ObjectID = "aat-s0-6Bf"; */
+"aat-s0-6Bf.title" = "水印大小:";
+
+/* Class = "NSTextFieldCell"; title = "time Style:"; ObjectID = "oYa-m4-MFP"; */
+"oYa-m4-MFP.title" = "水印样式:";
+
+
